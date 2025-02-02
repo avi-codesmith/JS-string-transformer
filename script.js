@@ -7,6 +7,9 @@ const cap = document.querySelector(".capitalise");
 const pascal = document.querySelector(".pascal");
 const snake = document.querySelector(".snake");
 const kebab = document.querySelector(".kebab");
+const h1 = document.querySelector(".heading");
+
+h1.style.color = "royalblue";
 
 upper.innerText = inputEl.value.toUpperCase();
 lower.innerText = inputEl.value.toLowerCase();

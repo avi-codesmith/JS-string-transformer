@@ -71,33 +71,24 @@ input:focus {
   left: 2%;
 }
 
-.heading {
-  color: royalblue;
-}
-
 .badge2 {
   top: 16%;
-  left: 2%;
 }
 
 .badge3 {
   top: 33%;
-  left: 2%;
 }
 
 .badge4 {
   top: 51%;
-  left: 2%;
 }
 
 .badge5 {
   top: 68%;
-  left: 2%;
 }
 
 .badge6 {
   top: 86%;
-  left: 2%;
 }
 
 @keyframes bounce {
